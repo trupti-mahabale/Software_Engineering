@@ -3,8 +3,8 @@ import datetime
 import smtplib
 
 # Set your email credentials
-EMAIL_ADDRESS = "mihir12242002@gmail.com"
-EMAIL_PASSWORD = "mmxheyujnvikfnuy"
+EMAIL_ADDRESS = "truptimahabale000@gmail.com"
+EMAIL_PASSWORD = "ltkw lmkn bcwg vzvs"
 
 # Connect to the email server
 server = smtplib.SMTP("smtp.gmail.com", 587)
